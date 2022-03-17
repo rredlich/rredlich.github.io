@@ -4,9 +4,22 @@ title: rredlich - back to coding
 theme: "PaperMod"
 
 params:
+    title: rredlich
+    description: "Página personal donde comparto contenido de mi aprendizaje en el desarrollo full-stack."
+    author: Rodolfo Redlich
+
+    assets:
+        favicon: "icons/favicon.ico"
+        favicon16x16: "icons/favicon-16x16.png"
+        favicon32x32: "icons/favicon-32x32.png"
+        apple_touch_icon: "icons/apple-touch-icon.png"
+        android-chrome: "icons/android-chrome-192x192.png"
+        android-chrome: "icons/android-chrome-512x512.png"
+
     defaultTheme: dark
     disableThemeToggle: false
     ShowReadingTime: true
+
     homeInfoParams:
         Title: Hola 👋 Rodolfo por acá...
         Content: En 2013 co-fundé zembia.cl, una empresa de desarrollo tecnológico, y paradójicamente me alejé de la programación. En este espacio documento mi vuelta al código y mi ruta de aprendizaje para desarrollo full-stack.
