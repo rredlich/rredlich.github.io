@@ -1,0 +1,23 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: rredlich - back to coding
+theme: "PaperMod"
+
+params:
+    defaultTheme: dark
+    disableThemeToggle: false
+    ShowReadingTime: true
+    homeInfoParams:
+        Title: Hola 👋 Rodolfo por acá...
+        Content: En 2013 co-fundé zembia.cl, una empresa de desarrollo tecnológico, y paradójicamente me alejé de la programación. En este espacio documento mi vuelta al código y mi ruta de aprendizaje para desarrollo full-stack.
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/rojolich"
+        - name: instagram
+          url: "https://www.instagram.com/rojolich/"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/rredlich/"
+        - name: github
+          url: "https://github.com/rredlich"
+
