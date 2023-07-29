@@ -1,6 +1,6 @@
 ---
 title: "Mapa de impacto y esfuerzo"
-date: 2023-07-29T12:23:06-04:00
+date: 2023-07-28T12:23:06-04:00
 draft: false
 ---
 ![Mapa de impacto y esfuerzo](../img/mapa-esfuerzo-impacto.png)

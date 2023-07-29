@@ -1,6 +1,6 @@
 ---
 title: "Piensa en remover en vez de agregar"
-date: 2023-07-29T12:12:32-04:00
+date: 2023-07-26T12:12:32-04:00
 draft: false
 ---
 ![Bicicleta sin pedales](../img/Bicicletas-sin-pedales.jpeg)

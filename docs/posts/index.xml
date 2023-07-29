@@ -6,11 +6,11 @@
     <description>Recent content in Posts on rredlich - back to coding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jul 2023 12:23:06 -0400</lastBuildDate><atom:link href="https://rredlich.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jul 2023 12:23:06 -0400</lastBuildDate><atom:link href="https://rredlich.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mapa de impacto y esfuerzo</title>
       <link>https://rredlich.github.io/posts/impact-effort-map/</link>
-      <pubDate>Sat, 29 Jul 2023 12:23:06 -0400</pubDate>
+      <pubDate>Fri, 28 Jul 2023 12:23:06 -0400</pubDate>
       
       <guid>https://rredlich.github.io/posts/impact-effort-map/</guid>
       <description>Lo admito, no completo todas las tareas que me propongo al día.
@@ -22,9 +22,23 @@ Para los fans de los espacios euclidianos, este mapa bidimensional tiene en el e
     </item>
     
     <item>
+      <title>Cómo resolvemos problemas en Zembia</title>
+      <link>https://rredlich.github.io/posts/how-solve-problems/</link>
+      <pubDate>Thu, 27 Jul 2023 12:21:46 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/how-solve-problems/</guid>
+      <description>Uno de mis socios es muy bueno para bajar la pelota al piso cuando todo es caos.
+Algunos problemas dan miedo, pero dan miedo porque son desconocidos y no sabemos cómo resolverlos.
+Pero no tiene que ser así.
+Cuando no tenemos un método para resolver problemas, las barreras de éxito son muy altas.
+Nicolás es muy bueno para alinear al equipo cuando hay caos.
+Estos son los 3 pasos que nos recuerda seguir cuando se nos presenta un problema:</description>
+    </item>
+    
+    <item>
       <title>Piensa en remover en vez de agregar</title>
       <link>https://rredlich.github.io/posts/less-is-more/</link>
-      <pubDate>Sat, 29 Jul 2023 12:12:32 -0400</pubDate>
+      <pubDate>Wed, 26 Jul 2023 12:12:32 -0400</pubDate>
       
       <guid>https://rredlich.github.io/posts/less-is-more/</guid>
       <description>Nuestro cerebro tiende a pasar por alto soluciones que involucren eliminar cosas.

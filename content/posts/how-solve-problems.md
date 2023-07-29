@@ -1,6 +1,6 @@
 ---
 title: "Cómo resolvemos problemas en Zembia"
-date: 2023-07-30T12:21:46-04:00
+date: 2023-07-27T12:21:46-04:00
 draft: false
 ---
 Uno de mis socios es muy bueno para bajar la pelota al piso cuando todo es caos.
