@@ -6,7 +6,22 @@
     <description>Recent content in Posts on rredlich - back to coding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2022 00:26:31 -0300</lastBuildDate><atom:link href="https://rredlich.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 11:57:36 -0400</lastBuildDate><atom:link href="https://rredlich.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Construye un MVP</title>
+      <link>https://rredlich.github.io/posts/build-an-mvp/</link>
+      <pubDate>Mon, 24 Jul 2023 11:57:36 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/build-an-mvp/</guid>
+      <description>¿Te ha pasado que tienes proyectos en mente que nunca empiezas?
+O sientes que llevas semanas haciendo algo y no parece tener un término.
+Algunos emprendedores podemos caer en la trampa de analizar en exceso cada aspecto de un proyecto.
+Y nos paralizamos. No avanzamos.
+Algo que me ha servido para empezar proyectos y tener la satisfacción de verlos avanzar es construir cosas pequeñas.
+Versiones mínimas del proyecto grande.
+Sí, hablo de un mínimo producto viable.</description>
+    </item>
+    
     <item>
       <title>Mi Primer Codigo y mi plan para retomar la programación</title>
       <link>https://rredlich.github.io/posts/mi-primer-codigo/</link>
