@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rredlich.github.io/posts/build-an-mvp/</loc>
-    <lastmod>2023-07-24T11:57:36-04:00</lastmod>
+    <loc>https://rredlich.github.io/posts/impact-effort-map/</loc>
+    <lastmod>2023-07-29T12:23:06-04:00</lastmod>
   </url><url>
     <loc>https://rredlich.github.io/posts/</loc>
-    <lastmod>2023-07-24T11:57:36-04:00</lastmod>
+    <lastmod>2023-07-29T12:23:06-04:00</lastmod>
   </url><url>
     <loc>https://rredlich.github.io/</loc>
+    <lastmod>2023-07-29T12:23:06-04:00</lastmod>
+  </url><url>
+    <loc>https://rredlich.github.io/posts/less-is-more/</loc>
+    <lastmod>2023-07-29T12:12:32-04:00</lastmod>
+  </url><url>
+    <loc>https://rredlich.github.io/posts/google-mail-post/</loc>
+    <lastmod>2023-07-25T12:10:14-04:00</lastmod>
+  </url><url>
+    <loc>https://rredlich.github.io/posts/build-an-mvp/</loc>
     <lastmod>2023-07-24T11:57:36-04:00</lastmod>
   </url><url>
     <loc>https://rredlich.github.io/posts/mi-primer-codigo/</loc>
