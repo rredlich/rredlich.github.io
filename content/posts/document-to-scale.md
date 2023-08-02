@@ -22,8 +22,11 @@ Hoy documentamos todo, desde lo comercial, administrativo, operativo y valórico
 Si te convencí de empezar a documentar para escalar, te recomiendo estos principios:
 
 1️⃣ Cuenta con un repositorio digital para registrar la documentación
+
 2️⃣ Documenta en el momento que encuentres una tarea repetible
+
 3️⃣ Si algo se pregunta por segunda vez, debe ser documentado
+
 4️⃣ No es solo escribir, puede ser un video, fotos o videos de terceros
 
 Nosotros en Zembia usamos Outline, una herramienta opensource que permite generar y buscar contenido.
