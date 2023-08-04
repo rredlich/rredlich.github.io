@@ -7,7 +7,7 @@ draft: true
 
 Esta es la primera de varias cápsulas progresivas para desarrollar una aplicación web con Sinatra.
 
-¿Por qué tan pequeñas? Por que si eres como yo, no tienes mucho tiempo para aprender a programar, y pequeño es rápido. Pero más importante, pequeño significa que también es rápido de escribir, y como no tengo mucho tiempo para escribir, acá también pequeño es rápido.
+¿Por qué tan pequeñas? Por que si eres como yo, no tienes mucho tiempo para aprender a programar, y pequeño es rápido.
 
 ¿Por qué Sinatra? Sinatra es un micro-framework basado en Ruby para desarrollar aplicaciones web extremadamente rápido. Si le agregamos algo de estilos con Bootstrap CSS, tenemos el potencial de hacer pequeñas apps que se ven bien, nuevamente, más rápido.
 
@@ -50,7 +50,7 @@ Use Ctrl-C to stop
 
 Abre un navegador en tu computador y entra a http://127.0.0.1:4567/hola, deberías ver que tu navegador muestra el texto "Hola Mundo!", y sin tener ningún HTML entremedio.
 
-Hagamos algo un poco más interesante. Podemos pasar un parametro por la URL. Primero, baja su aplicación precionando ctrl+c en el terminal, luego actualiza tu código con lo siguiente:
+Hagamos algo un poco más interesante. Podemos pasar un parametro por la URL. Primero, baja su aplicación presionando ctrl+c en el terminal, luego actualiza tu código con lo siguiente:
 
 ```ruby
 require 'rubygems'
