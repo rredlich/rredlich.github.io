@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>¿Comenzando un proyecto? Sigue esta guía para construir un MVP | rredlich - back to coding</title>
+<meta name="keywords" content="" />
+<meta name="description" content="Lee esto si:
+ Tienes una idea que parece ser un buen negocio Estás pensando en un nuevo proyecto y aún no construyes tu producto   Estás construyendo tu producto pero la vida se te va desarrollándolo y aún nadie te compra  Si te mueves por el mundo de la innovación, seguramente has escuchado el término MVP. Si es un concepto nuevo para ti, te dejo la definición de wikipedia:">
+<meta name="author" content="Rodolfo Redlich">
+<link rel="canonical" href="https://rredlich.github.io/posts/how-start-an-mvp/" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.48a18943c2fc15c38a372b8dde1f5e5dc0bc64fa6cb90f5a817d2f8c76b7f3ae.css" integrity="sha256-SKGJQ8L8FcOKNyuN3h9eXcC8ZPpsuQ9agX0vjHa3864=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.4dcb3c4f38462f66c6b6137227726f5543cb934cca9788f041c087e374491df2.js" integrity="sha256-Tcs8TzhGL2bGthNyJ3JvVUPLk0zKl4jwQcCH43RJHfI="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://rredlich.github.io/icons/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://rredlich.github.io/icons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://rredlich.github.io/icons/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://rredlich.github.io/icons/apple-touch-icon.png">
+<link rel="mask-icon" href="https://rredlich.github.io/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="¿Comenzando un proyecto? Sigue esta guía para construir un MVP" />
+<meta property="og:description" content="Lee esto si:
+ Tienes una idea que parece ser un buen negocio Estás pensando en un nuevo proyecto y aún no construyes tu producto   Estás construyendo tu producto pero la vida se te va desarrollándolo y aún nadie te compra  Si te mueves por el mundo de la innovación, seguramente has escuchado el término MVP. Si es un concepto nuevo para ti, te dejo la definición de wikipedia:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://rredlich.github.io/posts/how-start-an-mvp/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-08-05T09:28:32-04:00" />
+<meta property="article:modified_time" content="2023-08-05T09:28:32-04:00" /><meta property="og:site_name" content="rredlich" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="¿Comenzando un proyecto? Sigue esta guía para construir un MVP"/>
+<meta name="twitter:description" content="Lee esto si:
+ Tienes una idea que parece ser un buen negocio Estás pensando en un nuevo proyecto y aún no construyes tu producto   Estás construyendo tu producto pero la vida se te va desarrollándolo y aún nadie te compra  Si te mueves por el mundo de la innovación, seguramente has escuchado el término MVP. Si es un concepto nuevo para ti, te dejo la definición de wikipedia:"/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://rredlich.github.io/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "¿Comenzando un proyecto? Sigue esta guía para construir un MVP",
+      "item": "https://rredlich.github.io/posts/how-start-an-mvp/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "¿Comenzando un proyecto? Sigue esta guía para construir un MVP",
+  "name": "¿Comenzando un proyecto? Sigue esta guía para construir un MVP",
+  "description": "Lee esto si:\n Tienes una idea que parece ser un buen negocio Estás pensando en un nuevo proyecto y aún no construyes tu producto   Estás construyendo tu producto pero la vida se te va desarrollándolo y aún nadie te compra  Si te mueves por el mundo de la innovación, seguramente has escuchado el término MVP. Si es un concepto nuevo para ti, te dejo la definición de wikipedia:",
+  "keywords": [
+    
+  ],
+  "articleBody": "Lee esto si:\n Tienes una idea que parece ser un buen negocio Estás pensando en un nuevo proyecto y aún no construyes tu producto   Estás construyendo tu producto pero la vida se te va desarrollándolo y aún nadie te compra  Si te mueves por el mundo de la innovación, seguramente has escuchado el término MVP. Si es un concepto nuevo para ti, te dejo la definición de wikipedia:\nEl producto viable mínimo (MVP, del inglés Minimum Viable Product) es un producto con suficientes características para satisfacer a los clientes iniciales, y proporcionar retroalimentación para el desarrollo futuro\nPor favor recuerda la palabra retroalimentación mientras lees esta publicación, ya que es el corazón del MVP y clave al momento de desarrollar un nuevo producto.\n¿Por qué construir un Producto Mínimo Viable? A veces es más inteligente construir cosas que tratar de hacer todo correcto.\nSobre todo, este es el caso cuando estás tratando con problemas donde tienes incertidumbre sobre cómo se soluciona.\nConstruir y probar en terreno algo rápido e iterar. Ponerlo en manos del cliente y mejorarlo con el tiempo es la ventaja al pensar en un producto mínimo viable.\nEl camino incorrecto en estos casos sería hacer 100 entrevistas o estudiar a todos tus competidores. Podrían parecer el camino correcto, pero probablemente aprendes más sobre los problemas de tu clientes que de las soluciones que necesitan.\nEl momento de mayor aprendizaje lo logras cuando pones el producto en manos de ellos y te lo lanzan por la cabeza o te sorprenden con una sonrisa en el rostro. En ambos caso estás aprendiendo cosas valiosas.\nObjetivos antes de lanzar un nuevo producto Estos son los 5 pasos que deberías seguir para lanzar un nuevo producto:\n Construir algo usable rápido Obtener clientes iniciales Hablar con tus usuarios para conseguir feedback Iterar y mejorar el producto Repetir 3 constantemente  Sí, simplifiqué mucho los pasos, sobretodo pasar de construir a obtener clientes (si hay interés, preparo una publicación sobre eso).\nLo importante es que la historia muestra que después de 5 o 6 iteraciones vas a tener un producto completamente distinto y mucho más depurado.\nImagina que cada iteración son 2 semanas, 6 iteraciones serían 3 meses. En estos 3 meses pusiste el producto frente a tus clientes 6 veces. Tuviste 6 oportunidades para aprender sobre el uso del producto, si este resuelve el problema, qué funciona y qué no.\nEstarás de acuerdo conmigo que aprendes más de esta forma que trabajando 3 meses entre 4 paredes.\nCaracterísticas de un MVP Al momento de construir un MVP, recordando que es algo mínimo y pequeño, tu propuesta debería tener los siguientes 3 puntos en cuenta:\n Deben ser rápidos de construir (semanas y no meses) Debe ser muy limitado en funcionalidades Debe atraer a un pequeño grupo de usuarios  Cuando construyes un MVP, hacer algo que un pequeño grupo ame es más importante que satisfacer todas las necesidades de un grupo grande.\nSi tienes miedo a empezar con algo pequeño, te entiendo. Yo he estado en la situación de presentar un MVP con la intensión de venderlo como solución.\nY asusta. Piensas que a la gente no le va a gustar y que no te van a volver a hablar.\nAcá es clave buscar a la gente adecuada para estas primeras interacciones. Los primeros clientes deben ser early adopters, los que se arriesgan a probar cosas nuevas o tienen un problema tan grande que no tienen miedo a usar tu solución.\nNo hay que tener miedo en perderlos. Solo ajusta las expectativas, y si mejoras constantemente y los acompañas, se van a quedar contigo.\nEl ejemplo clásico Estás viendo la página de AirBnB del año 2008. Dejando fuera lo estético, creo que es fácil ver que le falta mucho de las funcionalidades que AirBnB tiene el día de hoy. Un producto completamente distinto:\nSin pagos en línea\nSin vista en mapa\nLas casas debían tener una cama inflable (el Airbed en AirBnB)\nLo importante es que estaba solucionando un problema y lo hacía más eficiente que otros. Un sitio para encontrar dónde alojar que más barato que un hotel.\nAirBnB no esperó tener sistema de pagos, búsqueda en mapas o grandes hosts para lanzar su producto ¿Por qué tú deberías?\nConsejos finales para construir un MVP rápidamente Supongamos que te convencí y estás listo para hacer un MVP de esa idea que tienes en la cabeza. Estos son los pasos que te ayudarán a tener tu MVP en su mínima expresión:\n Date una fecha límite para lanzar Escribe los alcances de esta versión Corta los alcances menos importantes No te enamores de tu MVP, porque va a cambiar  Unas últimas palabras Ojalá solo entrevistar a 100 usuarios te dieran la solución de qué construir, pero esto no es el caso para nuevos productos.\nLos usuarios son expertos en el problema, pero normalmente no tienen todas las respuestas que solucionan su problema. Ese es tu trabajo creando un nuevo producto.\nLa mejor estrategia para saber cómo solucionar su problema y tener esa conversación es poniendo un MVP que de vergüenza y preguntarle a tu cliente si eso soluciona su problema.\nNo empiezas tu nuevo negocio con todas las respuestas.\nLas primeras fases es todo sobre aprender, tomar algunos de los insights, presentarlo al mercado y ver qué pasa. Todos los aprendizajes vienen después de lanzar. Y un MVP es la forma más rápida para empezar a aprender\n",
+  "wordCount" : "901",
+  "inLanguage": "en",
+  "datePublished": "2023-08-05T09:28:32-04:00",
+  "dateModified": "2023-08-05T09:28:32-04:00",
+  "author":{
+    "@type": "Person",
+    "name": "Rodolfo Redlich"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://rredlich.github.io/posts/how-start-an-mvp/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "rredlich - back to coding",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://rredlich.github.io/icons/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class=" dark" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://rredlich.github.io/" accesskey="h" title="rredlich - back to coding (Alt + H)">rredlich - back to coding</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      ¿Comenzando un proyecto? Sigue esta guía para construir un MVP
+    </h1>
+    <div class="post-meta"><span title='2023-08-05 09:28:32 -0400 -04'>August 5, 2023</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Rodolfo Redlich
+
+</div>
+  </header> 
+  <div class="post-content"><p>Lee esto si:</p>
+<ul>
+<li>Tienes una idea que parece ser un buen negocio</li>
+<li>Estás pensando en un nuevo proyecto y aún no construyes tu producto</li>
+</ul>
+<ul>
+<li>Estás construyendo tu producto pero la vida se te va desarrollándolo y aún nadie te compra</li>
+</ul>
+<p>Si te mueves por el mundo de la innovación, seguramente has escuchado el término MVP. Si es un concepto nuevo para ti, te dejo la definición de wikipedia:</p>
+<p><em>El producto viable mínimo (MVP, del inglés Minimum Viable Product) es un producto con suficientes características para satisfacer a los clientes iniciales, y proporcionar retroalimentación para el desarrollo futuro</em></p>
+<p>Por favor recuerda la palabra retroalimentación mientras lees esta publicación, ya que es el corazón del MVP y clave al momento de desarrollar un nuevo producto.</p>
+<h1 id="por-qué-construir-un-producto-mínimo-viable">¿Por qué construir un Producto Mínimo Viable?<a hidden class="anchor" aria-hidden="true" href="#por-qué-construir-un-producto-mínimo-viable">#</a></h1>
+<p>A veces es más inteligente construir cosas que tratar de hacer todo correcto.</p>
+<p>Sobre todo, este es el caso cuando estás tratando con problemas donde tienes incertidumbre sobre cómo se soluciona.</p>
+<p>Construir y probar en terreno algo rápido e iterar. Ponerlo en manos del cliente y mejorarlo con el tiempo es la ventaja al pensar en un producto mínimo viable.</p>
+<p>El camino incorrecto en estos casos sería hacer 100 entrevistas o estudiar a todos tus competidores. Podrían parecer el camino correcto, pero probablemente aprendes más sobre los problemas de tu clientes que de las soluciones que necesitan.</p>
+<p>El momento de mayor aprendizaje lo logras cuando pones el producto en manos de ellos y te lo lanzan por la cabeza o te sorprenden con una sonrisa en el rostro. En ambos caso estás aprendiendo cosas valiosas.</p>
+<h1 id="objetivos-antes-de-lanzar-un-nuevo-producto">Objetivos antes de lanzar un nuevo producto<a hidden class="anchor" aria-hidden="true" href="#objetivos-antes-de-lanzar-un-nuevo-producto">#</a></h1>
+<p>Estos son los 5 pasos que deberías seguir para lanzar un nuevo producto:</p>
+<ol>
+<li>Construir algo usable rápido</li>
+<li>Obtener clientes iniciales</li>
+<li>Hablar con tus usuarios para conseguir feedback</li>
+<li>Iterar y mejorar el producto</li>
+<li>Repetir 3 constantemente</li>
+</ol>
+<p>Sí, simplifiqué mucho los pasos, sobretodo pasar de construir a obtener clientes (si hay interés, preparo una publicación sobre eso).</p>
+<p>Lo importante es que la historia muestra que después de 5 o 6 iteraciones vas a tener un producto completamente distinto y mucho más depurado.</p>
+<p>Imagina que cada iteración son 2 semanas, 6 iteraciones serían 3 meses. En estos 3 meses pusiste el producto frente a tus clientes 6 veces. Tuviste 6 oportunidades para aprender sobre el uso del producto, si este resuelve el problema, qué funciona y qué no.</p>
+<p>Estarás de acuerdo conmigo que aprendes más de esta forma que trabajando 3 meses entre 4 paredes.</p>
+<h1 id="características-de-un-mvp">Características de un MVP<a hidden class="anchor" aria-hidden="true" href="#características-de-un-mvp">#</a></h1>
+<p>Al momento de construir un MVP, recordando que es algo mínimo y pequeño, tu propuesta debería tener los siguientes 3 puntos en cuenta:</p>
+<ol>
+<li>Deben ser rápidos de construir (semanas y no meses)</li>
+<li>Debe ser muy limitado en funcionalidades</li>
+<li>Debe atraer a un pequeño grupo de usuarios</li>
+</ol>
+<p>Cuando construyes un MVP, hacer algo que un pequeño grupo ame es más importante que satisfacer todas las necesidades de un grupo grande.</p>
+<p>Si tienes miedo a empezar con algo pequeño, te entiendo. Yo he estado en la situación de presentar un MVP con la intensión de venderlo como solución.</p>
+<p>Y asusta. Piensas que a la gente no le va a gustar y que no te van a volver a hablar.</p>
+<p>Acá es clave buscar a la gente adecuada para estas primeras interacciones. Los primeros clientes deben ser early adopters, los que se arriesgan a probar cosas nuevas o tienen un problema tan grande que no tienen miedo a usar tu solución.</p>
+<p>No hay que tener miedo en perderlos. Solo ajusta las expectativas, y si mejoras constantemente y los acompañas, se van a quedar contigo.</p>
+<h1 id="el-ejemplo-clásico">El ejemplo clásico<a hidden class="anchor" aria-hidden="true" href="#el-ejemplo-clásico">#</a></h1>
+<p><img loading="lazy" src="../img/airbnb-web.png" alt="Página de AirBnB el 2008"  />
+</p>
+<p>Estás viendo la página de AirBnB del año 2008. Dejando fuera lo estético, creo que es fácil ver que le falta mucho de las funcionalidades que AirBnB tiene el día de hoy. Un producto completamente distinto:</p>
+<p>Sin pagos en línea</p>
+<p>Sin vista en mapa</p>
+<p>Las casas debían tener una cama inflable (el Airbed en AirBnB)</p>
+<p>Lo importante es que estaba solucionando un problema y lo hacía más eficiente que otros. Un sitio para encontrar dónde alojar que más barato que un hotel.</p>
+<p>AirBnB no esperó tener sistema de pagos, búsqueda en mapas o grandes hosts para lanzar su producto ¿Por qué tú deberías?</p>
+<h1 id="consejos-finales-para-construir-un-mvp-rápidamente">Consejos finales para construir un MVP rápidamente<a hidden class="anchor" aria-hidden="true" href="#consejos-finales-para-construir-un-mvp-rápidamente">#</a></h1>
+<p>Supongamos que te convencí y estás listo para hacer un MVP de esa idea que tienes en la cabeza. Estos son los pasos que te ayudarán a tener tu MVP en su mínima expresión:</p>
+<ol>
+<li>Date una fecha límite para lanzar</li>
+<li>Escribe los alcances de esta versión</li>
+<li>Corta los alcances menos importantes</li>
+<li>No te enamores de tu MVP, porque va a cambiar</li>
+</ol>
+<h1 id="unas-últimas-palabras">Unas últimas palabras<a hidden class="anchor" aria-hidden="true" href="#unas-últimas-palabras">#</a></h1>
+<p>Ojalá solo entrevistar a 100 usuarios te dieran la solución de qué construir, pero esto no es el caso para nuevos productos.</p>
+<p>Los usuarios son expertos en el problema, pero normalmente no tienen todas las respuestas que solucionan su problema. Ese es tu trabajo creando un nuevo producto.</p>
+<p>La mejor estrategia para saber cómo solucionar su problema y tener esa conversación es poniendo un MVP que de vergüenza y preguntarle a tu cliente si eso soluciona su problema.</p>
+<p>No empiezas tu nuevo negocio con todas las respuestas.</p>
+<p>Las primeras fases es todo sobre aprender, tomar algunos de los insights, presentarlo al mercado y ver qué pasa.
+Todos los aprendizajes vienen después de lanzar. Y un MVP es la forma más rápida para empezar a aprender</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2023 <a href="https://rredlich.github.io/">rredlich - back to coding</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

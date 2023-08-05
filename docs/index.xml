@@ -6,7 +6,17 @@
     <description>Recent content on rredlich - back to coding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Aug 2023 08:52:08 -0400</lastBuildDate><atom:link href="https://rredlich.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Aug 2023 09:28:32 -0400</lastBuildDate><atom:link href="https://rredlich.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Comenzando un proyecto? Sigue esta guía para construir un MVP</title>
+      <link>https://rredlich.github.io/posts/how-start-an-mvp/</link>
+      <pubDate>Sat, 05 Aug 2023 09:28:32 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/how-start-an-mvp/</guid>
+      <description>Lee esto si:
+ Tienes una idea que parece ser un buen negocio Estás pensando en un nuevo proyecto y aún no construyes tu producto   Estás construyendo tu producto pero la vida se te va desarrollándolo y aún nadie te compra  Si te mueves por el mundo de la innovación, seguramente has escuchado el término MVP. Si es un concepto nuevo para ti, te dejo la definición de wikipedia:</description>
+    </item>
+    
     <item>
       <title>Shiny Object Syndrome</title>
       <link>https://rredlich.github.io/posts/shiny-object-syndrome/</link>
