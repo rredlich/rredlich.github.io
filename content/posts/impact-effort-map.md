@@ -2,6 +2,8 @@
 title: "Mapa de impacto y esfuerzo"
 date: 2023-07-28T12:23:06-04:00
 draft: false
+tags:
+- Productos
 ---
 ![Mapa de impacto y esfuerzo](../img/mapa-esfuerzo-impacto.png)
 

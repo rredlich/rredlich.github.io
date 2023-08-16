@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Productos on rredlich - back to coding</title>
+    <link>https://rredlich.github.io/tags/productos/</link>
+    <description>Recent content in Productos on rredlich - back to coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Aug 2023 09:28:32 -0400</lastBuildDate><atom:link href="https://rredlich.github.io/tags/productos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Comenzando un proyecto? Sigue esta guía para construir un MVP</title>
+      <link>https://rredlich.github.io/posts/how-start-an-mvp/</link>
+      <pubDate>Sat, 05 Aug 2023 09:28:32 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/how-start-an-mvp/</guid>
+      <description>Lee esto si:
+ Tienes una idea que parece ser un buen negocio Estás pensando en un nuevo proyecto y aún no construyes tu producto   Estás construyendo tu producto pero la vida se te va desarrollándolo y aún nadie te compra  Si te mueves por el mundo de la innovación, seguramente has escuchado el término MVP. Si es un concepto nuevo para ti, te dejo la definición de wikipedia:</description>
+    </item>
+    
+    <item>
+      <title>Getting Real</title>
+      <link>https://rredlich.github.io/posts/getting-real/</link>
+      <pubDate>Thu, 03 Aug 2023 07:55:16 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/getting-real/</guid>
+      <description>Si quieres dejar de sacar la vuelta y empezar a lanzar soluciones web rápido, este libro te puede ayudar.
+Porque nos pasa a todos los que hemos desarrollado.
+Escribiendo la hasta la última línea de código para no mostrar nuestro proyecto al mundo.
+Es difícil, el miedo a la crítica es normal.
+A veces nos faltan herramientas para perder el miedo y solo lanzarnos.
+Este no es un libro técnico, es más una filosofía de trabajo que se inspira (creo yo) libremente en el manifiesto ágil.</description>
+    </item>
+    
+    <item>
+      <title>Mapa de impacto y esfuerzo</title>
+      <link>https://rredlich.github.io/posts/impact-effort-map/</link>
+      <pubDate>Fri, 28 Jul 2023 12:23:06 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/impact-effort-map/</guid>
+      <description>Lo admito, no completo todas las tareas que me propongo al día.
+Pero creo que esto es clave en mi forma de trabajo.
+Para resumirles un poco, al inicio de semana ordeno mis tareas por día y cada día voy marcando las tareas completadas.
+Pero lo más importante es decidir qué tareas necesito hacer primero y cuáles simplemente no las hago.
+Para eso uso el mapa de impacto esfuerzo.
+Para los fans de los espacios euclidianos, este mapa bidimensional tiene en el eje X el esfuerzo que toma hacer una tarea y en el eje Y su impacto.</description>
+    </item>
+    
+    <item>
+      <title>Piensa en remover en vez de agregar</title>
+      <link>https://rredlich.github.io/posts/less-is-more/</link>
+      <pubDate>Wed, 26 Jul 2023 12:12:32 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/less-is-more/</guid>
+      <description>Nuestro cerebro tiende a pasar por alto soluciones que involucren eliminar cosas.
+Un estudio de Nature evaluó a dos grupos en 8 ejercicios.
+Para los 8 ejercicios, un grupo no recibió pistas sobre remover como mejor solución. El segundo grupo sí lo recibió.
+Descubrieron lo siguiente:
+  Cerca de un 40% persona del grupo sin pista piensa en remover como solución.
+  Este porcentaje aumenta al 60% en el grupo que sí recibió las pistas.</description>
+    </item>
+    
+    <item>
+      <title>Las tres cosas más importantes de tu producto</title>
+      <link>https://rredlich.github.io/posts/google-mail-post/</link>
+      <pubDate>Tue, 25 Jul 2023 12:10:14 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/google-mail-post/</guid>
+      <description>En 2010, Paul Buchheit, creador de Gmail escribió un post que sigue vigente hoy para creación de productos.
+El título en español es “Si tu producto es genial, no necesita ser bueno”.
+En su publicación hay dos citas muy buenas (tan buenas que están destacadas en negrita):
+ ¿Cuál es el acercamiento correcto para nuevos productos? Elegir tres atributos o funcionalidades, construirlas muy, muy bien y olvidarte del resto. Enfocándote solo en características core en la primera versión, te obligas a encontrar la verdadera esencia y valor de tu producto.</description>
+    </item>
+    
+    <item>
+      <title>Construye un MVP</title>
+      <link>https://rredlich.github.io/posts/build-an-mvp/</link>
+      <pubDate>Mon, 24 Jul 2023 11:57:36 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/build-an-mvp/</guid>
+      <description>¿Te ha pasado que tienes proyectos en mente que nunca empiezas?
+O sientes que llevas semanas haciendo algo y no parece tener un término.
+Algunos emprendedores podemos caer en la trampa de analizar en exceso cada aspecto de un proyecto.
+Y nos paralizamos. No avanzamos.
+Algo que me ha servido para empezar proyectos y tener la satisfacción de verlos avanzar es construir cosas pequeñas.
+Versiones mínimas del proyecto grande.
+Sí, hablo de un mínimo producto viable.</description>
+    </item>
+    
+  </channel>
+</rss>

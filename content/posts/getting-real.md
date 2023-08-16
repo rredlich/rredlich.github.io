@@ -2,6 +2,10 @@
 title: "Getting Real"
 date: 2023-08-03T07:55:16-04:00
 draft: false
+tags:
+- Recomendaciones
+- Emprendimiento
+- Productos
 ---
 Si quieres dejar de sacar la vuelta y empezar a lanzar soluciones web rápido, este libro te puede ayudar.
 

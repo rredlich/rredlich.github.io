@@ -2,6 +2,8 @@
 title: "Construye un MVP"
 date: 2023-07-24T11:57:36-04:00
 draft: false
+tags:
+- Productos
 ---
 ¿Te ha pasado que tienes proyectos en mente que nunca empiezas?
 

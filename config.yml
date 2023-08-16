@@ -3,6 +3,9 @@ languageCode: en-us
 title: rredlich - back to coding
 theme: "PaperMod"
 
+taxonomies:
+  tag: tags
+
 params:
     title: rredlich
     description: "Página personal donde comparto contenido de mi aprendizaje en el desarrollo full-stack."

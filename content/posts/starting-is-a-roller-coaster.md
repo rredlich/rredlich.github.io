@@ -2,6 +2,8 @@
 title: "Emprender es una montaña rusa"
 date: 2023-08-07T08:01:00-04:00
 draft: false
+tags:
+- Emprendimiento
 ---
 Emprender es como un viaje en montaña rusa.
 

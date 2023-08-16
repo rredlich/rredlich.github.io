@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tecnología on rredlich - back to coding</title>
+    <link>https://rredlich.github.io/tags/tecnolog%C3%ADa/</link>
+    <description>Recent content in Tecnología on rredlich - back to coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Aug 2023 07:51:50 -0400</lastBuildDate><atom:link href="https://rredlich.github.io/tags/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Películas para emprendedores tecnológicos</title>
+      <link>https://rredlich.github.io/posts/movies-for-entrepreneurs/</link>
+      <pubDate>Thu, 10 Aug 2023 07:51:50 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/movies-for-entrepreneurs/</guid>
+      <description>¿Tienes películas o series que te motivan a hacer cosas?
+A mi me pasa con las de negocios y emprendimientos tecnológicos.
+Termino de verlas y me dan ganas de hacer cosas.
+Se me ocurren ideas.
+Prendo el computador y me pongo a programar.
+Esto me ayuda sobretodo cuando estoy bajando en la montaña rusa y necesito conseguir motivación como sea.
+Les comparto algunas películas y series con su reseña de IMDB para que le pongan play si les gusta alguna:</description>
+    </item>
+    
+    <item>
+      <title>Mi Primer Codigo y mi plan para retomar la programación</title>
+      <link>https://rredlich.github.io/posts/mi-primer-codigo/</link>
+      <pubDate>Tue, 22 Mar 2022 00:26:31 -0300</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/mi-primer-codigo/</guid>
+      <description>Una pequeña historia sobre mi primer programa Tenía 10 años cuando me inscribí en el extraprogramático de computación de mi escuela. En pleno 1997 me imaginaba esa sala de computación como el futuro. Robots, autos a control remoto, luces y sonidos electrónicos. Tiempo después me di cuenta que técnicamente era el pasado. Esa sala de computación estaba por lo menos 20 años atrasada, aunque siempre la recuerdo con cariño.
+En ese taller me enfrenté a Logo, el Scratch de la época (o quizás más antiguo).</description>
+    </item>
+    
+  </channel>
+</rss>

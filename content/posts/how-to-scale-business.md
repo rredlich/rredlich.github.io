@@ -2,6 +2,8 @@
 title: "Sistematizar y escalar negocios"
 date: 2023-07-31T08:37:39-04:00
 draft: false
+tags:
+- Emprendimiento
 ---
 “El software se está comiendo al mundo”
 

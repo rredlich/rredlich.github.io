@@ -2,6 +2,8 @@
 title: "Shiny Object Syndrome"
 date: 2023-08-04T08:52:08-04:00
 draft: false
+tags:
+- Emprendimiento
 ---
 Tener tantas nuevas tecnologías a la mano produce un gran problema en los emprendedores.
 

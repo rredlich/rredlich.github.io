@@ -1,6 +1,8 @@
 ---
 title: "Mi Primer Codigo y mi plan para retomar la programación"
 date: 2022-03-22T00:26:31-03:00
+tags:
+- Tecnología
 ---
 
 ## Una pequeña historia sobre mi primer programa

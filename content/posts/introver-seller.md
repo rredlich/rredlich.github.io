@@ -2,6 +2,8 @@
 title: "Vendedor introvertido"
 date: 2023-08-14T06:12:20-04:00
 draft: false
+tags:
+- Ventas
 ---
 Soy una persona introvertida, y me tocó ser el vendedor de la empresa.
 

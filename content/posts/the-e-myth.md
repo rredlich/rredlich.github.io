@@ -2,6 +2,9 @@
 title: "Recomendación de libro: The E Myth"
 date: 2023-08-11T09:15:54-04:00
 draft: false
+tags:
+- Recomendaciones
+- Emprendimiento
 ---
 Este libro te enseña por qué tener habilidades técnicas no te hace bueno manejando un negocio.
 

@@ -2,6 +2,8 @@
 title: "Deja de sobrepensar"
 date: 2023-08-09T07:52:15-04:00
 draft: false
+tags:
+- Emprendimiento
 ---
 ¿Qué pasa cuando pensar se vuelve contra nosotros?
 

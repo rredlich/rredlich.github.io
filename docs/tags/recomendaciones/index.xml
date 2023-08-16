@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Recomendaciones on rredlich - back to coding</title>
+    <link>https://rredlich.github.io/tags/recomendaciones/</link>
+    <description>Recent content in Recomendaciones on rredlich - back to coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Aug 2023 09:15:54 -0400</lastBuildDate><atom:link href="https://rredlich.github.io/tags/recomendaciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recomendación de libro: The E Myth</title>
+      <link>https://rredlich.github.io/posts/the-e-myth/</link>
+      <pubDate>Fri, 11 Aug 2023 09:15:54 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/the-e-myth/</guid>
+      <description>Este libro te enseña por qué tener habilidades técnicas no te hace bueno manejando un negocio.
+The E Myth de Michael E. Gerber ya es un clásico para emprendedores.
+El mito del emprendedor le habla a personas con habilidades técnicas que deciden independizarse para tener su propia empresa.
+Las que dejan su trabajo formal porque dominan la parte técnica.
+“Sé como hacerlo” es un pensamiento típico.
+Hasta que nos damos cuenta que el negocio también es vender, gestionar un equipo, asistir al cliente, y varios más.</description>
+    </item>
+    
+    <item>
+      <title>Películas para emprendedores tecnológicos</title>
+      <link>https://rredlich.github.io/posts/movies-for-entrepreneurs/</link>
+      <pubDate>Thu, 10 Aug 2023 07:51:50 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/movies-for-entrepreneurs/</guid>
+      <description>¿Tienes películas o series que te motivan a hacer cosas?
+A mi me pasa con las de negocios y emprendimientos tecnológicos.
+Termino de verlas y me dan ganas de hacer cosas.
+Se me ocurren ideas.
+Prendo el computador y me pongo a programar.
+Esto me ayuda sobretodo cuando estoy bajando en la montaña rusa y necesito conseguir motivación como sea.
+Les comparto algunas películas y series con su reseña de IMDB para que le pongan play si les gusta alguna:</description>
+    </item>
+    
+    <item>
+      <title>Getting Real</title>
+      <link>https://rredlich.github.io/posts/getting-real/</link>
+      <pubDate>Thu, 03 Aug 2023 07:55:16 -0400</pubDate>
+      
+      <guid>https://rredlich.github.io/posts/getting-real/</guid>
+      <description>Si quieres dejar de sacar la vuelta y empezar a lanzar soluciones web rápido, este libro te puede ayudar.
+Porque nos pasa a todos los que hemos desarrollado.
+Escribiendo la hasta la última línea de código para no mostrar nuestro proyecto al mundo.
+Es difícil, el miedo a la crítica es normal.
+A veces nos faltan herramientas para perder el miedo y solo lanzarnos.
+Este no es un libro técnico, es más una filosofía de trabajo que se inspira (creo yo) libremente en el manifiesto ágil.</description>
+    </item>
+    
+  </channel>
+</rss>

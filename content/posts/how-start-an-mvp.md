@@ -2,6 +2,9 @@
 title: "¿Comenzando un proyecto? Sigue esta guía para construir un MVP"
 date: 2023-08-05T09:28:32-04:00
 draft: false
+tags:
+- Productos
+- Emprendimiento
 ---
 Lee esto si:
 * Tienes una idea que parece ser un buen negocio

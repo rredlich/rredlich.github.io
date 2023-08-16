@@ -2,6 +2,8 @@
 title: "Cultura sin culpa"
 date: 2023-08-02T07:34:20-04:00
 draft: false
+tags:
+- Emprendimiento
 ---
 Si estás innovando, vas a fallar en algún momento.
 

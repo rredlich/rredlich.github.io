@@ -2,6 +2,8 @@
 title: "Las tres cosas más importantes de tu producto"
 date: 2023-07-25T12:10:14-04:00
 draft: false
+tags:
+- Productos
 ---
 En 2010, Paul Buchheit, creador de Gmail escribió un post que sigue vigente hoy para creación de productos.
 

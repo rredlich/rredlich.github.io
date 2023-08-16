@@ -2,6 +2,10 @@
 title: "Películas para emprendedores tecnológicos"
 date: 2023-08-10T07:51:50-04:00
 draft: false
+tags:
+- Recomendaciones
+- Emprendimiento
+- Tecnología
 ---
 ![Recomendaciones de pelíduclas](../img/movies-for-entrepreneurs.jpeg)
 

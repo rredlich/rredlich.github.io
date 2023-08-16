@@ -2,6 +2,8 @@
 title: "Documenta para escalar"
 date: 2023-08-01T07:44:26-04:00
 draft: false
+tags:
+- Emprendimiento
 ---
 ¿Qué le pasaría a tu negocio si un bus te pasara por encima?
 
