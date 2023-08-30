@@ -2,6 +2,9 @@
 title: "Consejos de escritura 1"
 date: 2023-08-29T09:40:47-04:00
 draft: false
+tags:
+- Vida
+- Emprendimiento
 ---
 Escribir debería ser considerado un súperpoder
 
